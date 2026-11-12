@@ -1,10 +1,10 @@
-  <img
+<img
   align="right"
   width="180"
-  src="https://media1.tenor.com/m/ZBtJFtWJeFYAAAAd/ga-logis-ambatukam.gif"
-  alt="GA LOGIS"
+  src="https://media.tenor.com/ZBtJFtWJeFYAAAAd/ga-logis-ambatukam.gif"
+  alt="GA LOGIS Ambatukam"
 />
-</div><img align="right" width="180" src="https://media1.tenor.com/m/ZBtJFtWJeFYAAAAd/ga-logis-ambatukam.gif" alt="GA LOGIS" />Hi, I'm Syah Jehan
+<img align="right" width="180" src="https://media1.tenor.com/m/ZBtJFtWJeFYAAAAd/ga-logis-ambatukam.gif" alt="GA LOGIS" />Hi, I'm Syah Jehan
 I'm an Information Technology student at Universitas Muhammadiyah Yogyakarta. 
 
 - 📍 Indonesia
