@@ -6,6 +6,9 @@
 </div><img align="right" width="180" src="https://github.com/Terabyte-gh.png" alt="Terabyte-gh GitHub avatar" />Hi, I'm Syah Jehan
 I'm an Information Technology student at Universitas Muhammadiyah Yogyakarta. 
 
+Connect with me
+https://www.instagram.com/syah_jhan/
+<br clear="right" />
 - 📍 Indonesia
 
 
