@@ -3,7 +3,7 @@
   Repository name must match your GitHub username: Terabyte-gh
 --><div align="right">
   <img src="https://komarev.com/ghpvc/?username=Terabyte-gh&label=Profile%20views&color=7AA2F7&style=flat" alt="Profile views" />
-</div><img align="right" width="180" src="https://github.com/Terabyte-gh.png" alt="Terabyte-gh GitHub avatar" />Hi, I'm Syah Jehan
+</div><img align="right" width="180" src="https://media1.tenor.com/m/ZBtJFtWJeFYAAAAd/ga-logis-ambatukam.gif" alt="GA LOGIS" />Hi, I'm Syah Jehan
 I'm an Information Technology student at Universitas Muhammadiyah Yogyakarta. 
 
 - 📍 Indonesia
