@@ -14,9 +14,8 @@ I'm an Information Technology student at Universitas Muhammadiyah Yogyakarta.
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,kotlin,nodejs,express,postgres,arch&perline=7" alt="Languages and tools" />
   </a>
-</p>GitHub statistics
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Terabyte-gh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Terabyte-gh GitHub statistics" />
+</p>
+
 </div><div align="center">
   <img src="https://streak-stats.demolab.com?user=Terabyte-gh&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </div>
